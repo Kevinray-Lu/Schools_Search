@@ -1,0 +1,2 @@
+This project is a web scraping of all Chinese middle/high schools and US colleges from reliable websites. Output file includes School names along with all relevant information.
+Techniques/Libraries used include: BeautifulSoup4, requests, file operations.
